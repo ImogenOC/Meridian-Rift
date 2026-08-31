@@ -22,6 +22,9 @@
 	#include "map_files\SerenityStation\SerenityStation.dmm"
 	#include "map_files\Snowglobe\snowglobe.dmm"
 	// NOVA EDIT ADDITION END
+	// APHELION EDIT ADDITION START - SOKOBAN_STATION
+	#include "map_files\SokobanStation\Sokoban.dmm"
+	// APHELION EDIT ADDITION END
 #endif
 #ifdef ALL_TEMPLATES
 	#include "templates.dm"
